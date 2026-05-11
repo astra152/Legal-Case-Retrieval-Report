@@ -1,5 +1,5 @@
 # case-search-report
-
+![法律人](https://img.shields.io/badge/github-法律人-blue)![lawer](https://img.shields.io/badge/github-lawer-blue)
 基于用户上传的案件文件进行结构化分析、裁判规则提炼与专业报告撰写的技能框架。
 
 ## 适用场景
